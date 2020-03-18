@@ -1,1 +1,1 @@
-# centrally-symmetric-gravitational-field
+# Model of centrally symmetric gravitational field
