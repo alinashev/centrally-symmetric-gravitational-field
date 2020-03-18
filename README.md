@@ -1,2 +1,2 @@
 # Model of centrally symmetric gravitational field
-[phase portrait](https://imgur.com/a/Uy63SAh)
+[phase portrait](https://i.imgur.com/k4ovDkd.png)
